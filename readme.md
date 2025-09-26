@@ -24,3 +24,6 @@ python ban.py
 
 + 处理后的图片在`final_images`
 
+## 效果展示
+
+![b_3cf233aaaa5085e88c5e67bcba2c0a7d](readme/b_3cf233aaaa5085e88c5e67bcba2c0a7d.jpg)
