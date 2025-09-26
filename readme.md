@@ -6,6 +6,8 @@
 
 大部分图片处理代码`ban.py`使用Gemini-2.5-pro生成
 
+战队成员头像图片来源：Cabelis在2025TSCTF-J AI方向题目`MustBeBot`所使用的图片
+
 ## 使用方法
 
 + 安装依赖库`Pillow`
