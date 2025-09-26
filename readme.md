@@ -1,6 +1,6 @@
 ## 需求来源
 
-![d6c9643eeeb1ae13372c27409bc797ec](readme/d6c9643eeeb1ae13372c27409bc797ec.png)
+<img src="readme/d6c9643eeeb1ae13372c27409bc797ec.png" alt="d6c9643eeeb1ae13372c27409bc797ec" style="zoom:33%;" />
 
 ## 描述
 
@@ -26,4 +26,4 @@ python ban.py
 
 ## 效果展示
 
-![b_3cf233aaaa5085e88c5e67bcba2c0a7d](readme/b_3cf233aaaa5085e88c5e67bcba2c0a7d.jpg)
+<img src="readme/b_3cf233aaaa5085e88c5e67bcba2c0a7d.jpg" alt="b_3cf233aaaa5085e88c5e67bcba2c0a7d" style="zoom:33%;" />
